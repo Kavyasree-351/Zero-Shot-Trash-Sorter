@@ -2,6 +2,8 @@
 
 CLIP-powered waste classification using zero-shot learning. Upload any image and define custom categories with text labels — no retraining needed.
 
+project done by Vikrant and Kavyasree 
+
 ## Quick Start
 
 ```bash
